@@ -1,7 +1,7 @@
 ﻿const Discord = require("discord.js");
-const client = new Discord.Client();
-const client2 = new Discord.Client();
-const myid = [''];
+const client = new Discord.Client(NjU2NDc2NjExMzE4NjQ0NzU2.Xf3bGQ.A2trK28a2jJSWaXvHFMIpGOJjd8);
+const client2 = new Discord.Client(NjU3NjQxMzI4NjI4NDY1Njg1.Xf3cHQ.HQ_AzWiAiSkxZoSyQYb7uXGErNE);
+const myid = ['334293546708238337'];
 const prefix = ['-'];
 
 client.on('ready', () => {
@@ -47,7 +47,7 @@ if (message.content === prefix+'spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Kahrba , Farm Credit By Kahrba, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame , Credit By Sadist , Farm Credit By Sadist, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -68,7 +68,7 @@ client.on('message', message => {
 
 
 if (command == "تحدث") {
-let rank = message.guild.member(message.author).roles.find('name', 'Role.Kahrbaa');
+let rank = message.guild.member(message.author).roles.find('name', 'a7a');
 if (!rank) return message.reply(' ')
   message.channel.send(args.join("  "))
     message.delete();
@@ -89,7 +89,7 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === prefix+'ريب'){
-        message.channel.send('#rep <@286088294234718209>')
+        message.channel.send('#rep <@334293546708238337>')
     }
 });
 
@@ -98,7 +98,7 @@ if (message.content === prefix+'spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Kahrba , Farm Credit By Kahrba, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame , Credit By Sadist , Farm Credit By Sadist, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -119,7 +119,7 @@ client2.on('message', message => {
 
 
 if (command == "تحدث") {
-let rank = message.guild.member(message.author).roles.find('name', 'Role.Kahrbaa');
+let rank = message.guild.member(message.author).roles.find('name', 'a7a');
 if (!rank) return message.reply(' ')
   message.channel.send(args.join("  "))
     message.delete();
